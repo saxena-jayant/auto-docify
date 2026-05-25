@@ -13,7 +13,8 @@
     "ai",
     "generator",
     "documentation",
-    "groq"
+    "groq",
+    "automation"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
