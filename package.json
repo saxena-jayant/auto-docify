@@ -1,0 +1,25 @@
+{
+  "name": "auto-readme-generator",
+  "version": "1.0.0",
+  "description": "Creates README file for projects automatically",
+  "license": "MIT",
+  "author": "Jayant",
+  "main": "index.js",
+  "bin": {
+    "auto-readme": "cli.js"
+  },
+  "keywords": [
+    "readme",
+    "ai",
+    "generator",
+    "documentation",
+    "groq"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "groq-sdk": "^1.2.0"
+  }
+}
